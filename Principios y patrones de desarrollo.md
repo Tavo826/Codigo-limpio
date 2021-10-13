@@ -65,21 +65,7 @@ Un módulo de software debe tener una y solo una razón para cambiar. Su objetiv
 
 La clase Employee tiene dos responsabilidades, la propia de un empleado que es trabajar y la de persistir su estado. Se pueden separar ambas responsabilidades en dos clases
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+![Ejemplo SRP](/Images/SRP.png)
 
 ### O. Open/closed (OCP)
 
