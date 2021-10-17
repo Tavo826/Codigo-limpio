@@ -67,7 +67,6 @@ La clase Employee tiene dos responsabilidades, la propia de un empleado que es t
 
 ![Ejemplo SRP](https://github.com/Tavo826/Codigo-limpio/blob/master/Images_PPP/SRP.png)
 
-
 ### O. Open/closed (OCP)
 
 Los módulos de software deben ser abiertos para su etensión pero cerrados para su modificación
