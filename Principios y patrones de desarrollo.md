@@ -467,7 +467,7 @@ Su implementación concreta utiliza una API de bajo nivel para realizar las oper
 
 Es una estructura de objetos que puede formar una consulta SQL. Se puede crear esta consulta haciendo referencia a clases y campos en lugar de tablas y columnas
 
-![Query](https://github.com/Tavo826/Codigo-limpio/blob/master/Images_PPP/Quesry.png)
+![Query](https://github.com/Tavo826/Codigo-limpio/blob/master/Images_PPP/Query.png)
 
 
 ### Decorator
